@@ -1,3 +1,6 @@
+The master branch has a few tests at making groups limiting work on active directory.
+The active_directory branch solves that.
+
 # LDAP Authentication module for nginx
 LDAP module for nginx which supports authentication against multiple LDAP servers.
 
